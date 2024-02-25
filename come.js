@@ -25,27 +25,6 @@ function dum (c, d){
     const back = c + d;
     console.log(back)
 }
-function add (a, b){
-    const result = a + b ;
-   console.log(result)
-}
 
-const sum = add(7, 8)
-function add (a, b){
-    const result = a + b ;
-   console.log(result)
-}
 
-const sum = add(7, 8)
-function add (a, b){
-    const result = a + b ;
-   console.log(result)
-}
-
-const sum = add(7, 8)
-function add (a, b){
-    const result = a + b ;
-   console.log(result)
-}
-
-const sum = add(7, 8)
+console.log("no one can beat me");
