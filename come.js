@@ -10,3 +10,11 @@ function add (a, b){
 const sum = add(7, 8)
 
 console.log(sum)
+
+
+const dum = cum(5, 8)
+
+function dum (c, d){
+    const back = c + d;
+    console.log(back)
+}
