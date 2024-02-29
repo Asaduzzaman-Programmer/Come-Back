@@ -67,6 +67,12 @@ function dum (c, d){
     console.log(back)
 }
 
+
+function dum (c, d){
+    const back = c + d;
+    console.log(back)
+}
+
 console.log("no one can beat me");
 // console.log("no one can beat me no one");
 // console.log("no one can beat me");
