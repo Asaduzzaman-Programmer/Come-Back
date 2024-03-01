@@ -55,3 +55,8 @@ console.log(sixth[0], sixth[5], sixth[200]);
 const sixth1 = [2, 2, 2, 2, 2, 2, 2];
 delete sixth1[0]
 console.log(sixth1[0], sixth1[5], sixth1[200]);
+
+
+// interesting things 
+console.log(typeof undefined);
+console.log(typeof null);
