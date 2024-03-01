@@ -1,4 +1,4 @@
-const x = "";
+const x =[];
 if(x){
     console.log("Value of x is truthy");
 }
