@@ -30,17 +30,25 @@ function noNegative(a, b) {
         const fol = a + b;
         console.log(fol);
     }
-        
-    
+
+
 }
-noNegative(2,-21)
+noNegative(2, -21)
 
 // no 4/2
-function neg(a, b){
-    if(a<0 || b<0){
+function neg(a, b) {
+    if (a < 0 || b < 0) {
         return
     }
-    return a+b;
+    return a + b;
 }
-const don =neg(4,4);
+const don = neg(4, 4);
 console.log(don);
+
+// no 5
+const fifth = { id: 45, class: 7 };
+console.log(fifth.id, fifth.class, fifth.result);
+
+// no 6
+const sixth = [2, 2, 2, 2, 2, 2, 2];
+console.log(sixth[0], sixth[5], sixth[200]);
