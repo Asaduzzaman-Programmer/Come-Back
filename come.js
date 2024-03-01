@@ -9,4 +9,20 @@
  console.log(x, y)
  y = 5;
  console.log(x, y)
- 
+
+
+// let p = {job: "web developer"};
+// let q = p;
+// q = {job: "backend"}
+// console.log(p, q)
+
+
+let e = {class:7};
+let f = e;
+f.class=10;
+console.log(e, f);
+
+let g = {class:7};
+let h = g;
+h={class: 4};
+console.log(g, h);
