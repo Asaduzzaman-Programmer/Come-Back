@@ -30,8 +30,6 @@ function noNegative(a, b) {
         const fol = a + b;
         console.log(fol);
     }
-
-
 }
 noNegative(2, -21)
 
@@ -52,3 +50,8 @@ console.log(fifth.id, fifth.class, fifth.result);
 // no 6
 const sixth = [2, 2, 2, 2, 2, 2, 2];
 console.log(sixth[0], sixth[5], sixth[200]);
+
+// no 7
+const sixth1 = [2, 2, 2, 2, 2, 2, 2];
+delete sixth1[0]
+console.log(sixth1[0], sixth1[5], sixth1[200]);
